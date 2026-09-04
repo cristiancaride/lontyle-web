@@ -1,0 +1,237 @@
+{
+ "file": "home.html",
+ "title": "Lontyle Games: Your Trusted Mobile Game Development Company",
+ "meta_description": "Experience Excellence in Mobile Game Development with Lontyle Games – Your Premier Game Development Company",
+ "blocks": [
+  {
+   "tag": "li",
+   "text": "Become the boss of the city Presenting \"Car Parking : Roleplaying Game\" [A:https://play.google.com/store/apps/details?id=com.LontyleGames.BigMultiplayerCityRoleplay] Download Now! [/A] [A:https://www.lontylegames.com/title/car-parking-driving-roleplaying-game/] Learn More [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "From Idea to Interactive Making Your Dream Games and Apps a Reality!"
+  },
+  {
+   "tag": "h2",
+   "text": "Latest Releases"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/ios-apps/]iOS Apps[/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/new/]NEW![/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/codetip-daily-coding-tips/] CodeTip – Daily Coding Tips[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "One useful coding tip every day. Stay sharp, write better code, and grow as a developer."
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/ios-apps/]iOS Apps[/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/new/]NEW![/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/carkeep-vehicle-manager/] CarKeep – Vehicle Manager[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "Easily manage your car’s maintenance and expenses with CarKeep. Keep track of services, fuel costs, and more."
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/android-games/]Android Games[/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/building-stack-block-builder-game/] Building Stack – Block Builder Game[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "Stack your way to the sky! Explore the addictive world of Building Stack, a thrilling block-stacking challenge that’s perfect for all ages."
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/android-games/]Android Games[/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/big-city-roleplay/] Big City Roleplay: Real Life Simulator City Game[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "Immerse yourself in urban life like never before! Choose your role, master your profession, and explore endless adventures in the vibrant world of Big City Roleplay: Real Life Simulator City Game."
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/android-apps/]Android Apps[/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/ios-apps/]iOS Apps[/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-app/] Find My Car – Your Ultimate Car Parking App[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "Effortlessly locate your parked car with our intuitive car parking app. Say goodbye to searching for your car in crowded lots. Download the ultimate car parking app now."
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/portfolio-category/ios-apps/]iOS Apps[/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "[A:https://www.lontylegames.com/title/socialfit-social-fitness/] Socialfit – Your All-in-One Social Fitness App[/A]"
+  },
+  {
+   "tag": "p",
+   "text": "Transform your fitness journey with Social Fit. Discover trendy workouts, create your fitness routine, and achieve your goals. Download now!"
+  },
+  {
+   "tag": "h2",
+   "text": "Our Company"
+  },
+  {
+   "tag": "h2",
+   "text": "Games for everyone, Even non-Gamers!"
+  },
+  {
+   "tag": "h5",
+   "text": "Lontyle: Crafting Digital Adventures and Games"
+  },
+  {
+   "tag": "p",
+   "text": "Lontyle is your gateway to a captivating world of mobile apps and games. We’re dedicated to crafting immersive experiences that entertain and inspire. Whether you’re a casual user or a hardcore gamer, Lontyle has something special for everyone. Explore our ever-expanding collection and embark on exciting journeys through the digital realm. Join us in shaping the future of mobile entertainment, one thrilling app and game at a time. Welcome to the world of Lontyle!"
+  },
+  {
+   "tag": "h2",
+   "text": "Crafting with Unity, Swift, and Android Studio"
+  },
+  {
+   "tag": "p",
+   "text": "At Lontyle, we’re passionate about crafting digital experiences using Unity, Swift, and Android Studio. Our games and apps are a testament to our creativity and dedication. Explore our world, where we push the boundaries of technology to create captivating digital adventures."
+  },
+  {
+   "tag": "h2",
+   "text": "Apps for Both Android and Apple Enthusiasts"
+  },
+  {
+   "tag": "p",
+   "text": "Lontyle is your source for apps designed to work seamlessly on both Android and Apple devices. Whether you’re an Android enthusiast or an Apple aficionado, our apps cater to diverse preferences. We prioritize user experience, ensuring our creations provide value to our own community of users."
+  },
+  {
+   "tag": "h2",
+   "text": "Multilingual Programming Prowess"
+  },
+  {
+   "tag": "p",
+   "text": "At Lontyle, we work in multiple programming languages, including C#, PHP, MySQL, and Java. This expertise empowers us to develop versatile and feature-rich applications that cater to our unique needs and aspirations. Join us in our coding journey, where innovation knows no bounds, and where every app and game is a labor of love for our own enjoyment."
+  },
+  {
+   "tag": "h2",
+   "text": "We Work On"
+  },
+  {
+   "tag": "h2",
+   "text": "Our Newsletter"
+  },
+  {
+   "tag": "p",
+   "text": "Sign up for our e-mail newsletter and stay informed for what’s next on the horizon."
+  },
+  {
+   "tag": "p",
+   "text": "We specialize in crafting innovative and futuristic Android and iOS apps, as well as engaging games, ensuring a seamless user experience and captivating narratives for the gaming projects."
+  },
+  {
+   "tag": "h2",
+   "text": "Our Games"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-driving-roleplaying-game/] Car Parking : Roleplaying Game [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-app/] Find My Car - Parking App [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/socialfit-social-fitness/] SocialFit - Social Fitness [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/big-city-roleplay/] Big City Roleplay [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/building-stack-block-builder-game/] Building Stack [/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "Company"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-studio/] About Us [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-games/] Our Games [/A]"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2025/12/Logo-800x500.jpg",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2024/03/BMLogoBig-1-800x500.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/image-1-800x500.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/role-playing-icon-first-1-512x500.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Grupo-3-800x500.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Tamano-personalizado-–-2-800x500.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/b-1-300x300.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Appdroid-283x300.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/LENGUAJES-300x300.png",
+   "alt": ""
+  },
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Tamano-personalizado-–-17.png",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "file": "code-tip-privacy-policy.html",
+ "title": "Code Tip Privacy Policy - Lontyle Apps & Games",
+ "meta_description": "",
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "Code Tip Privacy Policy"
+  },
+  {
+   "tag": "p",
+   "text": "Last updated: December 2025"
+  },
+  {
+   "tag": "h3",
+   "text": "1. Introduction"
+  },
+  {
+   "tag": "p",
+   "text": "CodeTip respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the CodeTip mobile application."
+  },
+  {
+   "tag": "p",
+   "text": "By using the app, you agree to the practices described in this policy."
+  },
+  {
+   "tag": "h3",
+   "text": "2. Information We Collect"
+  },
+  {
+   "tag": "p",
+   "text": "CodeTip does not collect personally identifiable information such as name, email address, phone number, or location."
+  },
+  {
+   "tag": "p",
+   "text": "We may collect limited, non-personal data for app functionality:"
+  },
+  {
+   "tag": "p",
+   "text": "Device tokens (used only to send push notifications)"
+  },
+  {
+   "tag": "p",
+   "text": "Anonymous usage data (via Firebase, such as app launches or crashes)"
+  },
+  {
+   "tag": "p",
+   "text": "This data cannot be used to identify you personally."
+  },
+  {
+   "tag": "h3",
+   "text": "3. How We Use Information"
+  },
+  {
+   "tag": "p",
+   "text": "The collected data is used only to:"
+  },
+  {
+   "tag": "p",
+   "text": "Deliver daily coding tips"
+  },
+  {
+   "tag": "p",
+   "text": "Send push notifications when new tips are available"
+  },
+  {
+   "tag": "p",
+   "text": "Improve app stability and performance"
+  },
+  {
+   "tag": "p",
+   "text": "We do not sell, rent, or share your data with third parties for marketing purposes."
+  },
+  {
+   "tag": "h3",
+   "text": "4. Push Notifications"
+  },
+  {
+   "tag": "p",
+   "text": "CodeTip may send push notifications to inform you about new daily coding tips."
+  },
+  {
+   "tag": "p",
+   "text": "You can disable notifications at any time from your device settings."
+  },
+  {
+   "tag": "h3",
+   "text": "5. Data Storage & Security"
+  },
+  {
+   "tag": "p",
+   "text": "All data is transmitted securely using standard system encryption (HTTPS)."
+  },
+  {
+   "tag": "p",
+   "text": "We rely on Apple’s iOS security features and Firebase’s infrastructure."
+  },
+  {
+   "tag": "p",
+   "text": "No sensitive personal data is stored on our servers."
+  },
+  {
+   "tag": "h3",
+   "text": "6. Third-Party Services"
+  },
+  {
+   "tag": "p",
+   "text": "CodeTip uses the following third-party services:"
+  },
+  {
+   "tag": "p",
+   "text": "Firebase (Google LLC) for backend services and analytics"
+  },
+  {
+   "tag": "p",
+   "text": "These services may collect limited technical data according to their own privacy policies."
+  },
+  {
+   "tag": "h3",
+   "text": "7. Children’s Privacy"
+  },
+  {
+   "tag": "p",
+   "text": "CodeTip does not knowingly collect any data from children under the age of 13."
+  },
+  {
+   "tag": "h3",
+   "text": "8. Your Rights"
+  },
+  {
+   "tag": "p",
+   "text": "You have full control over the app:"
+  },
+  {
+   "tag": "p",
+   "text": "You can stop data collection by uninstalling the app"
+  },
+  {
+   "tag": "p",
+   "text": "You can disable notifications at any time"
+  },
+  {
+   "tag": "h3",
+   "text": "9. Changes to This Policy"
+  },
+  {
+   "tag": "p",
+   "text": "This Privacy Policy may be updated from time to time.Any changes will be reflected in this document."
+  },
+  {
+   "tag": "h3",
+   "text": "10. Contact"
+  },
+  {
+   "tag": "p",
+   "text": "If you have any questions about this Privacy Policy, you can contact us at:"
+  },
+  {
+   "tag": "p",
+   "text": "📧 lontyle@gmail.com"
+  },
+  {
+   "tag": "h2",
+   "text": "Our Newsletter"
+  },
+  {
+   "tag": "p",
+   "text": "Sign up for our e-mail newsletter and stay informed for what’s next on the horizon."
+  },
+  {
+   "tag": "p",
+   "text": "We specialize in crafting innovative and futuristic Android and iOS apps, as well as engaging games, ensuring a seamless user experience and captivating narratives for the gaming projects."
+  },
+  {
+   "tag": "h2",
+   "text": "Our Games"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-driving-roleplaying-game/] Car Parking : Roleplaying Game [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-app/] Find My Car - Parking App [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/socialfit-social-fitness/] SocialFit - Social Fitness [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/big-city-roleplay/] Big City Roleplay [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/building-stack-block-builder-game/] Building Stack [/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "Company"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-studio/] About Us [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-games/] Our Games [/A]"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Tamano-personalizado-–-17.png",
+   "alt": ""
+  }
+ ]
+}

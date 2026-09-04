@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Gym: Workout Tracker — Gym Routine App with AI Coach &amp; XP</title>
+  <meta name="description" content="Social Gym is the social fitness app for people who lift: thousands of gym routines, guided workouts with timed rests, XP duels with friends and a 24/7 AI coach. Free on iOS.">
+  <meta name="theme-color" content="#06070d">
+  <meta name="author" content="Cristian Caride">
+  <link rel="canonical" href="https://www.lontylegames.com/title/socialfit-social-fitness/">
+  <link rel="alternate" hreflang="en" href="https://www.lontylegames.com/title/socialfit-social-fitness/">
+  <link rel="alternate" hreflang="es" href="https://www.lontylegames.com/es/social-gym/">
+  <link rel="alternate" hreflang="x-default" href="https://www.lontylegames.com/title/socialfit-social-fitness/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Lontyle Apps">
+  <meta property="og:title" content="Social Gym: Workout Tracker — Gym Routine App with AI Coach &amp; XP">
+  <meta property="og:description" content="Social Gym is the social fitness app for people who lift: thousands of gym routines, guided workouts with timed rests, XP duels with friends and a 24/7 AI coach. Free on iOS.">
+  <meta property="og:url" content="https://www.lontylegames.com/title/socialfit-social-fitness/">
+  <meta property="og:image" content="https://www.lontylegames.com/assets/img/app-socialgym-icon.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Social Gym: Workout Tracker — Gym Routine App with AI Coach &amp; XP">
+  <meta name="twitter:description" content="Social Gym is the social fitness app for people who lift: thousands of gym routines, guided workouts with timed rests, XP duels with friends and a 24/7 AI coach. Free on iOS.">
+  <meta name="twitter:image" content="https://www.lontylegames.com/assets/img/app-socialgym-icon.png">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "MobileApplication", "name": "Social Gym: Workout Tracker", "operatingSystem": "iOS", "applicationCategory": "HealthApplication", "description": "Social Gym is the social network for people who lift. Find your next routine, train guided with timed rests, and compete with your friends for XP.", "image": "https://www.lontylegames.com/assets/img/app-socialgym-icon.png", "url": "https://www.lontylegames.com/title/socialfit-social-fitness/", "author": {"@type": "Organization", "name": "Lontyle Apps"}, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "installUrl": "https://apps.apple.com/app/id1614796934"}</script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.lontylegames.com/"}, {"@type": "ListItem", "position": 2, "name": "Games & Apps", "item": "https://www.lontylegames.com/our-games/"}, {"@type": "ListItem", "position": 3, "name": "Social Gym: Workout Tracker", "item": "https://www.lontylegames.com/title/socialfit-social-fitness/"}]}</script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is Social Gym free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Social Gym is free to download and use. The optional Elite plan is a one-time purchase — no subscriptions, ever — that unlocks unlimited saves, the AI Coach, advanced analytics and removes ads."}}, {"@type": "Question", "name": "What makes Social Gym different from other workout trackers?", "acceptedAnswer": {"@type": "Answer", "text": "Social Gym is a social network for lifters, not just a log. You can browse thousands of community routines, remix them, compete in weekly 1v1 XP duels, join a monthly XP race and share your progress on The Wall."}}, {"@type": "Question", "name": "Can I create my own gym routine?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Build routines from scratch with sets, reps and rest times, or remix any community routine to make it yours. The AI generator can also create a routine tailored to your goal, level and available equipment."}}, {"@type": "Question", "name": "Does Social Gym work with Apple Health?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Your workouts sync to Apple Health automatically (write-only), so your activity rings and health records stay up to date."}}, {"@type": "Question", "name": "How does the XP system work?", "acceptedAnswer": {"@type": "Answer", "text": "Every completed workout earns XP. Keep your weekly streak alive, level up, win 1v1 duels against friends and climb the monthly XP race podium."}}, {"@type": "Question", "name": "Is Social Gym available on Android?", "acceptedAnswer": {"@type": "Answer", "text": "Social Gym is currently an iOS exclusive, built natively with Swift for the best iPhone experience."}}]}</script>
+  <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="/assets/img/favicon-192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/assets/img/favicon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Unbounded:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<div class="bg-scene" aria-hidden="true">
+  <i class="orb o1"></i><i class="orb o2"></i><i class="orb o3"></i><i class="orb o4"></i>
+</div>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="/" aria-label="Lontyle Apps — Home">
+      <span class="wordmark">Lontyle<em>Apps</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/">Home</a>
+      <a href="/our-games/" aria-current="page">Games &amp; Apps</a>
+      <a href="/about-us/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<section class="app-hero">
+  <div class="backdrop" style="background-image:url('/assets/img/app-socialgym-icon.png')"></div>
+  <div class="wrap layout">
+    <img class="icon" src="/assets/img/app-socialgym-icon.png" alt="Social Gym: Workout Tracker app icon" width="148" height="148">
+    <div>
+      <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/our-games/">Games &amp; Apps</a> <span aria-hidden="true">/</span> <span aria-current="page">Social Gym: Workout Tracker</span>
+    </nav>
+      <div class="badges"><span class="badge cat-ios">iOS Apps</span><span class="badge new">NEW</span></div>
+      <h1>Social Gym: Workout Tracker</h1>
+      <p class="tagline">The social network for people who lift. Find your next routine, train guided with timed rests, and compete with your friends for XP.</p>
+      <div class="store-buttons">
+      <a class="btn primary" href="https://apps.apple.com/app/id1614796934" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 12.54c-.03-2.9 2.37-4.29 2.48-4.36-1.35-1.98-3.46-2.25-4.2-2.28-1.79-.18-3.5 1.05-4.4 1.05-.9 0-2.3-1.03-3.79-1-1.95.03-3.75 1.13-4.75 2.88-2.03 3.52-.52 8.72 1.46 11.58.97 1.4 2.12 2.96 3.63 2.9 1.46-.06 2.01-.94 3.77-.94s2.26.94 3.8.91c1.57-.03 2.57-1.42 3.53-2.83 1.11-1.62 1.57-3.19 1.6-3.27-.04-.02-3.07-1.18-3.13-4.64zM14.16 4.1c.8-.97 1.34-2.32 1.19-3.66-1.15.05-2.55.77-3.38 1.74-.74.86-1.39 2.23-1.22 3.55 1.29.1 2.6-.65 3.41-1.63z"/></svg> Download on the App Store</a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="block tight">
+  <div class="wrap">
+    <div class="gallery" aria-label="Screenshots" data-reveal>
+    <img src="/assets/img/app-socialgym-shot1.png" alt="Social Gym: Workout Tracker — screenshot 1" loading="lazy">
+    <img src="/assets/img/app-socialgym-shot2.png" alt="Social Gym: Workout Tracker — screenshot 2" loading="lazy">
+    <img src="/assets/img/app-socialgym-shot3.png" alt="Social Gym: Workout Tracker — screenshot 3" loading="lazy">
+    <img src="/assets/img/app-socialgym-shot4.png" alt="Social Gym: Workout Tracker — screenshot 4" loading="lazy">
+    <img src="/assets/img/app-socialgym-shot5.png" alt="Social Gym: Workout Tracker — screenshot 5" loading="lazy">
+    </div>
+    <div class="prose mt-0">
+<p>Social Gym is the social network for people who lift. Find your next routine, train guided with timed rests, and compete with your friends for XP.</p>
+<h2>Find your routine</h2>
+<ul>
+<li>💪 Thousands of community routines, filtered by goal, level, days and equipment.</li>
+<li>🧍 Muscle analysis with an interactive 3D body: see what each routine works before you start.</li>
+<li>🔀 Remix any routine and make it yours.</li>
+</ul>
+<h2>Train guided</h2>
+<ul>
+<li>⏰ Sets, reps and timed rests with lock-screen alerts.</li>
+<li>📈 Set-by-set weight logging and automatic personal records.</li>
+<li>💓 Apple Health sync.</li>
+</ul>
+<h2>Progress like a game</h2>
+<ul>
+<li>✨ Earn XP with every workout, level up and protect your weekly streak.</li>
+<li>🏅 Achievements, history with charts and a home-screen widget.</li>
+</ul>
+<h2>Compete with your community</h2>
+<ul>
+<li>🥊 Weekly 1v1 duels: whoever earns more XP wins.</li>
+<li>🏆 Monthly XP race with a podium and champion.</li>
+<li>🧱 The Wall: share your wins with your gym and community.</li>
+</ul>
+<h2>AI Coach 24/7</h2>
+<ul>
+<li>🤖 Training, nutrition and recovery questions answered instantly.</li>
+<li>🧠 AI routine generator tailored to you.</li>
+</ul>
+<h2>Elite Plan — one-time purchase, no subscription</h2>
+<ul>
+<li>🚀 Everything unlimited: saves, AI Coach and generator.</li>
+<li>📊 Advanced analytics, CSV export, pro calculators and zero ads.</li>
+</ul>
+<p>Download Social Gym and train with your community.</p>
+    </div>
+  </div>
+</section>
+<section class="block tight">
+  <div class="wrap">
+    <div class="section-head" data-reveal><h2>More from <span class="grad">Lontyle</span></h2></div>
+    <div class="grid">
+    <article class="card" data-cats="iOS Apps" data-reveal>
+      <div class="thumb tile">
+        <span class="tile-bg" style="background-image:url('/assets/img/app-igarage-icon.png')" aria-hidden="true"></span>
+        <img class="tile-icon" src="/assets/img/app-igarage-icon.png" alt="" width="104" height="104" loading="lazy">
+        <div class="badges"><span class="badge cat-ios">iOS Apps</span><span class="badge new">NEW</span></div>
+      </div>
+      <div class="card-body">
+        <h3><a href="/title/igarage-workshop-manager/">iGarage: Workshop Manager</a></h3>
+        <p>The ideal app for workshops to optimize vehicle management and client communication. Add vehicles, record details, contact clients.</p>
+        <span class="more">Discover the app →</span>
+      </div>
+    </article>
+    <article class="card" data-cats="iOS Apps|Android Apps" data-reveal>
+      <div class="thumb tile">
+        <span class="tile-bg" style="background-image:url('/assets/img/app-findmycar-icon.png')" aria-hidden="true"></span>
+        <img class="tile-icon" src="/assets/img/app-findmycar-icon.png" alt="" width="104" height="104" loading="lazy">
+        <div class="badges"><span class="badge cat-ios">iOS Apps</span><span class="badge cat-android">Android Apps</span></div>
+      </div>
+      <div class="card-body">
+        <h3><a href="/title/car-parking-app/">Find My Car: Parked Car Finder</a></h3>
+        <p>Never lose your parked car again. Save your spot with one tap and get guided straight back — offline, private, no subscriptions.</p>
+        <span class="more">Discover the app →</span>
+      </div>
+    </article>
+    <article class="card" data-cats="iOS Apps" data-reveal>
+      <div class="thumb tile">
+        <span class="tile-bg" style="background-image:url('/assets/img/app-carkeep-icon.png')" aria-hidden="true"></span>
+        <img class="tile-icon" src="/assets/img/app-carkeep-icon.png" alt="" width="104" height="104" loading="lazy">
+        <div class="badges"><span class="badge cat-ios">iOS Apps</span></div>
+      </div>
+      <div class="card-body">
+        <h3><a href="/title/carkeep-vehicle-manager/">CarKeep – Vehicle Manager</a></h3>
+        <p>Your ultimate vehicle management tool. Track maintenance, log fuel expenses and set service reminders — effortlessly.</p>
+        <span class="more">Discover the app →</span>
+      </div>
+    </article>
+    </div>
+  </div>
+</section><section class="block tight">
+  <div class="wrap">
+    <div class="section-head" data-reveal>
+      <h2>The workout tracker that feels like a <span class="grad">game</span></h2>
+      <p>Most gym apps are spreadsheets. Social Gym turns training into something you want to open every day.</p>
+    </div>
+    <div class="features">
+      <div class="feature" data-reveal>
+        <span class="ico">🔍</span>
+        <h3>Find your gym routine</h3>
+        <p>Thousands of community workout routines filtered by goal, level, training days and equipment — plus an interactive 3D muscle map that shows what each routine works.</p>
+      </div>
+      <div class="feature" data-reveal>
+        <span class="ico">⏱️</span>
+        <h3>Guided training mode</h3>
+        <p>Sets, reps and timed rests with lock-screen alerts. Log your weight set by set and let the app detect your personal records automatically.</p>
+      </div>
+      <div class="feature" data-reveal>
+        <span class="ico">⚡</span>
+        <h3>XP, streaks &amp; duels</h3>
+        <p>Earn XP every workout, protect your weekly streak, challenge friends to 1v1 duels and race the community in the monthly XP podium.</p>
+      </div>
+      <div class="feature" data-reveal>
+        <span class="ico">🤖</span>
+        <h3>AI Coach, 24/7</h3>
+        <p>Instant answers on training, nutrition and recovery — and an AI routine generator that builds a plan around your goal and equipment.</p>
+      </div>
+      <div class="feature" data-reveal>
+        <span class="ico">📊</span>
+        <h3>Progress you can see</h3>
+        <p>History with charts, achievements, a home-screen widget and Apple Health sync. Elite adds advanced analytics and CSV export.</p>
+      </div>
+      <div class="feature" data-reveal>
+        <span class="ico">💎</span>
+        <h3>One-time purchase, no subscription</h3>
+        <p>The Elite plan is a single purchase, forever. No monthly fees, no paywalled basics, zero ads.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="block tight" id="faq">
+  <div class="wrap">
+    <div class="section-head" data-reveal><h2>Frequently asked <span class="grad">questions</span></h2></div>
+    <div class="faq">
+      <details class="faq-item" data-reveal>
+        <summary>Is Social Gym free?</summary>
+        <p>Yes. Social Gym is free to download and use. The optional Elite plan is a one-time purchase — no subscriptions, ever — that unlocks unlimited saves, the AI Coach, advanced analytics and removes ads.</p>
+      </details>
+      <details class="faq-item" data-reveal>
+        <summary>What makes Social Gym different from other workout trackers?</summary>
+        <p>Social Gym is a social network for lifters, not just a log. You can browse thousands of community routines, remix them, compete in weekly 1v1 XP duels, join a monthly XP race and share your progress on The Wall.</p>
+      </details>
+      <details class="faq-item" data-reveal>
+        <summary>Can I create my own gym routine?</summary>
+        <p>Yes. Build routines from scratch with sets, reps and rest times, or remix any community routine to make it yours. The AI generator can also create a routine tailored to your goal, level and available equipment.</p>
+      </details>
+      <details class="faq-item" data-reveal>
+        <summary>Does Social Gym work with Apple Health?</summary>
+        <p>Yes. Your workouts sync to Apple Health automatically (write-only), so your activity rings and health records stay up to date.</p>
+      </details>
+      <details class="faq-item" data-reveal>
+        <summary>How does the XP system work?</summary>
+        <p>Every completed workout earns XP. Keep your weekly streak alive, level up, win 1v1 duels against friends and climb the monthly XP race podium.</p>
+      </details>
+      <details class="faq-item" data-reveal>
+        <summary>Is Social Gym available on Android?</summary>
+        <p>Social Gym is currently an iOS exclusive, built natively with Swift for the best iPhone experience.</p>
+      </details>
+    </div>
+  </div>
+</section>
+<section class="block tight">
+  <div class="wrap">
+    <div class="cta-band" data-reveal>
+      <h2>Train with your <span class="grad">community</span></h2>
+      <p>Join the social network for people who lift. Free on the App Store.</p>
+      <a class="btn primary" href="https://apps.apple.com/app/id1614796934" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 12.54c-.03-2.9 2.37-4.29 2.48-4.36-1.35-1.98-3.46-2.25-4.2-2.28-1.79-.18-3.5 1.05-4.4 1.05-.9 0-2.3-1.03-3.79-1-1.95.03-3.75 1.13-4.75 2.88-2.03 3.52-.52 8.72 1.46 11.58.97 1.4 2.12 2.96 3.63 2.9 1.46-.06 2.01-.94 3.77-.94s2.26.94 3.8.91c1.57-.03 2.57-1.42 3.53-2.83 1.11-1.62 1.57-3.19 1.6-3.27-.04-.02-3.07-1.18-3.13-4.64zM14.16 4.1c.8-.97 1.34-2.32 1.19-3.66-1.15.05-2.55.77-3.38 1.74-.74.86-1.39 2.23-1.22 3.55 1.29.1 2.6-.65 3.41-1.63z"/></svg> Download Social Gym</a>
+      <p class="cta-alt"><a href="/es/social-gym/">🇪🇸 También disponible en español</a></p>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-cta" data-reveal>
+      <h2>Got an idea? <span class="grad">Let's talk.</span></h2>
+      <a class="btn primary" href="mailto:lontyle@gmail.com">lontyle@gmail.com</a>
+    </div>
+    <div class="cols">
+      <div>
+        <span class="wordmark big">Lontyle<em>Apps</em></span>
+        <p>Indie studio with game-design roots, now crafting native iOS apps — designed, coded and shipped in-house.</p>
+      </div>
+      <div>
+        <h4>Apps</h4>
+        <ul>
+        <li><a href="/title/igarage-workshop-manager/">iGarage: Workshop Manager</a></li>
+        <li><a href="/title/socialfit-social-fitness/">Social Gym: Workout Tracker</a></li>
+        <li><a href="/title/car-parking-app/">Find My Car: Parked Car Finder</a></li>
+        <li><a href="/title/carkeep-vehicle-manager/">CarKeep – Vehicle Manager</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Game archive</h4>
+        <ul>
+        <li><a href="/title/big-city-roleplay/">Big City Roleplay: Real Life Simulator City Game</a></li>
+        <li><a href="/title/car-parking-driving-roleplaying-game/">Car Parking &amp; Driving: Roleplaying Game</a></li>
+        <li><a href="/title/building-stack-block-builder-game/">Building Stack – Block Builder Game</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/about-us/">About Us</a></li>
+          <li><a href="/our-games/">Games &amp; Apps</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="https://apps.apple.com/developer/cristian-caride-rodriguez/id1605937771" target="_blank" rel="noopener">App Store profile</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="legal"><span>© Lontyle Apps — Cristian Caride. All rights reserved.</span><span>Handcrafted with Unity &amp; Swift.</span></p>
+  </div>
+</footer>
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

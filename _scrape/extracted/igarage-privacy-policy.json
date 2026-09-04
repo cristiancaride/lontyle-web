@@ -1,0 +1,157 @@
+{
+ "file": "igarage-privacy-policy.html",
+ "title": "iGarage Privacy Policy - Lontyle Apps & Games",
+ "meta_description": "",
+ "blocks": [
+  {
+   "tag": "h1",
+   "text": "iGarage Privacy Policy"
+  },
+  {
+   "tag": "h2",
+   "text": "Privacy Policy"
+  },
+  {
+   "tag": "h3",
+   "text": "Introduction"
+  },
+  {
+   "tag": "p",
+   "text": "At iGarage, we are committed to protecting your privacy and ensuring that your personal information is safeguarded. This Privacy Policy outlines how we collect, use, and manage user information within our application."
+  },
+  {
+   "tag": "h3",
+   "text": "Information We Collect"
+  },
+  {
+   "tag": "p",
+   "text": "We collect the following information from users:"
+  },
+  {
+   "tag": "li",
+   "text": "Workshop name."
+  },
+  {
+   "tag": "li",
+   "text": "Phone numbers of clients added in the app."
+  },
+  {
+   "tag": "li",
+   "text": "Vehicle license plates."
+  },
+  {
+   "tag": "li",
+   "text": "Vehicle make and model."
+  },
+  {
+   "tag": "h3",
+   "text": "Use of Information"
+  },
+  {
+   "tag": "p",
+   "text": "The collected information is used solely for the workshop to contact the client quickly and efficiently. iGarage does not use this data for any other purpose."
+  },
+  {
+   "tag": "h3",
+   "text": "Information Sharing"
+  },
+  {
+   "tag": "p",
+   "text": "We do not share, sell, or distribute users’ personal information to third parties. All data is securely stored in Firestore."
+  },
+  {
+   "tag": "h3",
+   "text": "Data Security"
+  },
+  {
+   "tag": "p",
+   "text": "No specific security measures are implemented beyond storage in Firestore. Information is stored in the cloud, and an annual data cleanup is conducted."
+  },
+  {
+   "tag": "h3",
+   "text": "Data Storage"
+  },
+  {
+   "tag": "p",
+   "text": "Data is stored in Firestore and reviewed annually. Data that is no longer needed is systematically deleted."
+  },
+  {
+   "tag": "h3",
+   "text": "User Rights"
+  },
+  {
+   "tag": "p",
+   "text": "Users have no rights to modify their data unless they notify us via email at lontyle@gmail.com."
+  },
+  {
+   "tag": "h3",
+   "text": "Changes to the Privacy Policy"
+  },
+  {
+   "tag": "p",
+   "text": "Users will not be notified of changes to this policy. Users are encouraged to review this policy periodically."
+  },
+  {
+   "tag": "h3",
+   "text": "Contact"
+  },
+  {
+   "tag": "p",
+   "text": "If you have any questions or concerns about this Privacy Policy, please contact us at lontyle@gmail.com."
+  },
+  {
+   "tag": "h2",
+   "text": "Our Newsletter"
+  },
+  {
+   "tag": "p",
+   "text": "Sign up for our e-mail newsletter and stay informed for what’s next on the horizon."
+  },
+  {
+   "tag": "p",
+   "text": "We specialize in crafting innovative and futuristic Android and iOS apps, as well as engaging games, ensuring a seamless user experience and captivating narratives for the gaming projects."
+  },
+  {
+   "tag": "h2",
+   "text": "Our Games"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-driving-roleplaying-game/] Car Parking : Roleplaying Game [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/car-parking-app/] Find My Car - Parking App [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/socialfit-social-fitness/] SocialFit - Social Fitness [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/big-city-roleplay/] Big City Roleplay [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:https://www.lontylegames.com/title/building-stack-block-builder-game/] Building Stack [/A]"
+  },
+  {
+   "tag": "h2",
+   "text": "Company"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-studio/] About Us [/A]"
+  },
+  {
+   "tag": "li",
+   "text": "[A:/our-games/] Our Games [/A]"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://www.lontylegames.com/wp-content/uploads/2023/09/Tamano-personalizado-–-17.png",
+   "alt": ""
+  }
+ ]
+}

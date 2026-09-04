@@ -1,0 +1,53 @@
+{
+ "igarage": {
+  "name": "iGarage: Workshop Manager",
+  "url": "https://apps.apple.com/gm/app/igarage-workshop-manager/id6544782316?uo=4",
+  "genres": [
+   "Productivity",
+   "Business"
+  ],
+  "rating": 0,
+  "ratingCount": 0,
+  "version": "1.0",
+  "releaseDate": "2024-07-15T07:00:00Z",
+  "currentVersionDate": "2024-07-15T10:30:31Z"
+ },
+ "socialgym": {
+  "name": "Social Gym: Workout Tracker",
+  "url": "https://apps.apple.com/gm/app/social-gym-workout-tracker/id1614796934?uo=4",
+  "genres": [
+   "Social Networking",
+   "Sports"
+  ],
+  "rating": 0,
+  "ratingCount": 0,
+  "version": "5",
+  "releaseDate": "2022-04-02T07:00:00Z",
+  "currentVersionDate": "2026-09-01T18:13:20Z"
+ },
+ "findmycar": {
+  "name": "Find My Car: Parked Car Finder",
+  "url": "https://apps.apple.com/gm/app/find-my-car-parked-car-finder/id1605937769?uo=4",
+  "genres": [
+   "Navigation",
+   "Utilities"
+  ],
+  "rating": 0,
+  "ratingCount": 0,
+  "version": "11",
+  "releaseDate": "2022-01-25T08:00:00Z",
+  "currentVersionDate": "2026-07-07T08:42:37Z"
+ },
+ "carkeep": {
+  "name": "CarKeep - Vehicle Manager",
+  "url": "https://apps.apple.com/gm/app/carkeep-vehicle-manager/id6479198249?uo=4",
+  "genres": [
+   "Utilities"
+  ],
+  "rating": 0,
+  "ratingCount": 0,
+  "version": "1.1",
+  "releaseDate": "2024-03-12T07:00:00Z",
+  "currentVersionDate": "2024-05-26T14:12:10Z"
+ }
+}

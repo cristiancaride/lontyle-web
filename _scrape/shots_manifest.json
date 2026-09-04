@@ -1,0 +1,30 @@
+{
+ "igarage": [
+  "app-igarage-shot1.png",
+  "app-igarage-shot2.png",
+  "app-igarage-shot3.png",
+  "app-igarage-shot4.png"
+ ],
+ "socialgym": [
+  "app-socialgym-shot1.png",
+  "app-socialgym-shot2.png",
+  "app-socialgym-shot3.png",
+  "app-socialgym-shot4.png",
+  "app-socialgym-shot5.png",
+  "app-socialgym-shot6.png"
+ ],
+ "findmycar": [
+  "app-findmycar-shot1.png",
+  "app-findmycar-shot2.png",
+  "app-findmycar-shot3.png",
+  "app-findmycar-shot4.png",
+  "app-findmycar-shot5.png",
+  "app-findmycar-shot6.png"
+ ],
+ "carkeep": [
+  "app-carkeep-shot1.png",
+  "app-carkeep-shot2.png",
+  "app-carkeep-shot3.png",
+  "app-carkeep-shot4.png"
+ ]
+}
