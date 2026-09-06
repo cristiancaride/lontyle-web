@@ -1147,6 +1147,10 @@ def build_misc():
 </urlset>
 """)
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {DOMAIN}/sitemap.xml\n")
+    # AdMob authorization files (recovered from the previous site)
+    adsline = "google.com, pub-3495726205681585, DIRECT, f08c47fec0942fa0\n"
+    write("ads.txt", adsline)
+    write("app-ads.txt", adsline)
     write("CNAME", "www.lontylegames.com\n")
     write(".nojekyll", "")
     body = """<section class="hero">
